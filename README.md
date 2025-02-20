@@ -2,9 +2,9 @@
 
 Para poder rodar os scripts descritos nas próximas seções que preparam o ambiente, instalam as dependências e rodam a aplicação, antes é preciso rodar no terminal:
 
-`sudo apt update && sudo apt upgrade
-sudo apt install nodejs
-npm install react-scripts`
+`sudo apt update && sudo apt upgrade`
+`sudo apt install nodejs`
+`npm install react-scripts`
 
 # Getting Started with Create React App
 
