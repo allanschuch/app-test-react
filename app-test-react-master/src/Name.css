@@ -1,0 +1,20 @@
+/* Seleciona um elemento com a classe 'titulo' */
+.titulo {
+    color: blue;         /* Define a cor do texto como azul */
+    font-size: 24px;     /* Define o tamanho da fonte */
+    text-align: center;  /* Alinha o texto ao centro */
+  }
+  
+  /* Seleciona todos os parágrafos */
+  p {
+    font-family: Arial, sans-serif; /* Define a fonte do texto */
+    line-height: 1.6;   /* Define o espaçamento entre as linhas */
+  }
+  
+  /* Seleciona elementos com a id 'container' */
+  #container {
+    background-color: #f4f4f4; /* Define o fundo da área */
+    padding: 20px;             /* Adiciona espaçamento interno */
+    border-radius: 8px;        /* Faz bordas arredondadas */
+  }
+  
